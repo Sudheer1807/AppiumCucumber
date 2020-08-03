@@ -1,0 +1,129 @@
+15 Jul 2020 00:05:13  INFO logger - --------------------------------------
+15 Jul 2020 00:05:55  INFO logger - Android driver created
+15 Jul 2020 00:07:02  INFO logger - --------------------------------------
+15 Jul 2020 00:08:04  INFO logger - Android driver created
+15 Jul 2020 00:08:40  INFO logger - Long press successful on element: [[io.appium.java_client.android.AndroidDriver, Capabilities: {app=C:\Users\Avinash\Desktop\Mobile automation\MobileAutomation\src\main\java\app\SSapp.apk, appActivity=net.slideshare.mobile.ui.SplashActivity, appPackage=net.slideshare.mobile, automationName=UiAutomator2, databaseEnabled=false, desired={platformName=android, name=userHasSlideshareApp, app=C:\Users\Avinash\Desktop\Mobile automation\MobileAutomation\src\main\java\app\SSapp.apk, appActivity=net.slideshare.mobile.ui.SplashActivity, appPackage=net.slideshare.mobile, automationName=UiAutomator2, deviceName=Android Emulator, noReset=false}, deviceApiLevel=28, deviceManufacturer=Google, deviceModel=AOSP on IA Emulator, deviceName=emulator-5554, deviceScreenDensity=440, deviceScreenSize=1080x2160, deviceUDID=emulator-5554, javascriptEnabled=true, locationContextEnabled=false, name=userHasSlideshareApp, networkConnectionEnabled=true, noReset=false, pixelRatio=2.75, platform=LINUX, platformName=Android, platformVersion=9, statBarHeight=66, takesScreenshot=true, viewportRect={left=0, top=66, width=1080, height=1962}, warnings={}, webStorageEnabled=false}] -> id: net.slideshare.mobile:id/action_search]
+15 Jul 2020 00:09:49  INFO logger - --------------------------------------
+15 Jul 2020 00:10:19  INFO logger - Android driver created
+15 Jul 2020 00:22:06  INFO logger - --------------------------------------
+15 Jul 2020 00:22:28  INFO logger - Android driver created
+15 Jul 2020 00:25:03  INFO logger - --------------------------------------
+15 Jul 2020 00:25:24  INFO logger - Android driver created
+15 Jul 2020 00:25:57  INFO logger - Long press successful on element: [[io.appium.java_client.android.AndroidDriver, Capabilities: {app=C:\Users\Avinash\Desktop\Mobile automation\MobileAutomation\src\main\java\app\SSapp.apk, appActivity=net.slideshare.mobile.ui.SplashActivity, appPackage=net.slideshare.mobile, automationName=UiAutomator2, databaseEnabled=false, desired={platformName=android, name=userHasSlideshareApp, app=C:\Users\Avinash\Desktop\Mobile automation\MobileAutomation\src\main\java\app\SSapp.apk, appActivity=net.slideshare.mobile.ui.SplashActivity, appPackage=net.slideshare.mobile, automationName=UiAutomator2, deviceName=Android Emulator, noReset=false}, deviceApiLevel=28, deviceManufacturer=Google, deviceModel=AOSP on IA Emulator, deviceName=emulator-5554, deviceScreenDensity=440, deviceScreenSize=1080x2160, deviceUDID=emulator-5554, javascriptEnabled=true, locationContextEnabled=false, name=userHasSlideshareApp, networkConnectionEnabled=true, noReset=false, pixelRatio=2.75, platform=LINUX, platformName=Android, platformVersion=9, statBarHeight=66, takesScreenshot=true, viewportRect={left=0, top=66, width=1080, height=1962}, warnings={}, webStorageEnabled=false}] -> id: net.slideshare.mobile:id/action_search]
+15 Jul 2020 00:34:51  INFO logger - --------------------------------------
+15 Jul 2020 00:35:26  INFO logger - Android driver created
+15 Jul 2020 00:35:57  INFO logger - Long press successful on element: [[io.appium.java_client.android.AndroidDriver, Capabilities: {app=C:\Users\Avinash\Desktop\Mobile automation\MobileAutomation\src\main\java\app\SSapp.apk, appActivity=net.slideshare.mobile.ui.SplashActivity, appPackage=net.slideshare.mobile, automationName=UiAutomator2, databaseEnabled=false, desired={platformName=android, name=userHasSlideshareApp, app=C:\Users\Avinash\Desktop\Mobile automation\MobileAutomation\src\main\java\app\SSapp.apk, appActivity=net.slideshare.mobile.ui.SplashActivity, appPackage=net.slideshare.mobile, automationName=UiAutomator2, deviceName=Android Emulator, noReset=false}, deviceApiLevel=28, deviceManufacturer=Google, deviceModel=AOSP on IA Emulator, deviceName=emulator-5554, deviceScreenDensity=440, deviceScreenSize=1080x2160, deviceUDID=emulator-5554, javascriptEnabled=true, locationContextEnabled=false, name=userHasSlideshareApp, networkConnectionEnabled=true, noReset=false, pixelRatio=2.75, platform=LINUX, platformName=Android, platformVersion=9, statBarHeight=66, takesScreenshot=true, viewportRect={left=0, top=66, width=1080, height=1962}, warnings={}, webStorageEnabled=false}] -> id: net.slideshare.mobile:id/action_search]
+15 Jul 2020 00:44:57  INFO logger - --------------------------------------
+15 Jul 2020 00:45:59  INFO logger - Android driver created
+15 Jul 2020 11:54:23  INFO logger - --------------------------------------
+15 Jul 2020 11:55:58  INFO logger - Android driver created
+15 Jul 2020 11:55:58  INFO logger - --------------------------------------
+15 Jul 2020 11:58:37  INFO logger - --------------------------------------
+15 Jul 2020 11:59:40  INFO logger - Android driver created
+15 Jul 2020 11:59:40  INFO logger - --------------------------------------
+15 Jul 2020 12:01:06  INFO logger - Android driver created
+15 Jul 2020 22:55:58  INFO logger - --------------------------------------
+15 Jul 2020 22:57:12  INFO logger - Android driver created
+15 Jul 2020 23:05:35  INFO logger - --------------------------------------
+15 Jul 2020 23:06:15  INFO logger - Android driver created
+15 Jul 2020 23:18:42  INFO logger - --------------------------------------
+15 Jul 2020 23:19:38  INFO logger - Android driver created
+15 Jul 2020 23:21:21  INFO logger - --------------------------------------
+15 Jul 2020 23:21:56  INFO logger - Android driver created
+15 Jul 2020 23:24:04  INFO logger - --------------------------------------
+15 Jul 2020 23:24:40  INFO logger - Android driver created
+15 Jul 2020 23:26:55  INFO logger - --------------------------------------
+15 Jul 2020 23:27:30  INFO logger - Android driver created
+15 Jul 2020 23:28:02  INFO logger - ClassName :cucumberIntegrationTests.PageConstants.android.AndroidAbhiBus
+15 Jul 2020 23:28:02  INFO logger - MethodName :findElement
+15 Jul 2020 23:28:02  INFO logger - Exception :Element not foundBy.id: android:id/search_src_text
+15 Jul 2020 23:28:02  INFO logger - -----------------------------------------------------------------------------------
+15 Jul 2020 23:28:46  INFO logger - --------------------------------------
+15 Jul 2020 23:29:17  INFO logger - Android driver created
+15 Jul 2020 23:29:29  INFO logger - ClassName :cucumberIntegrationTests.PageConstants.android.AndroidAbhiBus
+15 Jul 2020 23:29:29  INFO logger - MethodName :findElement
+15 Jul 2020 23:29:29  INFO logger - Exception :Element not foundBy.id: android:id/search_src_text
+15 Jul 2020 23:29:29  INFO logger - -----------------------------------------------------------------------------------
+15 Jul 2020 23:30:32  INFO logger - --------------------------------------
+15 Jul 2020 23:31:13  INFO logger - Android driver created
+15 Jul 2020 23:31:22  INFO logger - ClassName :cucumberIntegrationTests.PageConstants.android.AndroidAbhiBus
+15 Jul 2020 23:31:22  INFO logger - MethodName :findElement
+15 Jul 2020 23:31:22  INFO logger - Exception :Element not foundBy.id: android:id/search_src_text
+15 Jul 2020 23:31:22  INFO logger - -----------------------------------------------------------------------------------
+15 Jul 2020 23:37:26  INFO logger - --------------------------------------
+15 Jul 2020 23:38:04  INFO logger - Android driver created
+15 Jul 2020 23:38:16  INFO logger - ClassName :cucumberIntegrationTests.PageConstants.android.AndroidAbhiBus
+15 Jul 2020 23:38:16  INFO logger - MethodName :findElement
+15 Jul 2020 23:38:16  INFO logger - Exception :Element not foundBy.xpath: /android.widget.LinearLayout[2]/android.widget.ExpandableListView/android.widget.LinearLayout[2]/android.widget.LinearLayout/android.widget.TextView
+15 Jul 2020 23:38:16  INFO logger - -----------------------------------------------------------------------------------
+16 Jul 2020 00:02:26  INFO logger - --------------------------------------
+16 Jul 2020 00:09:52  INFO logger - --------------------------------------
+16 Jul 2020 00:12:01  INFO logger - --------------------------------------
+16 Jul 2020 00:22:17  INFO logger - --------------------------------------
+16 Jul 2020 00:26:39  INFO logger - --------------------------------------
+16 Jul 2020 00:27:30  INFO logger - --------------------------------------
+16 Jul 2020 00:39:05  INFO logger - Appium server started successfully
+16 Jul 2020 00:39:07  INFO logger - --------------------------------------
+16 Jul 2020 00:41:57  INFO logger - Appium server started successfully
+16 Jul 2020 00:41:59  INFO logger - --------------------------------------
+16 Jul 2020 01:02:28  INFO logger - --------------------------------------
+16 Jul 2020 01:03:42  INFO logger - Android driver created
+16 Jul 2020 01:04:19  INFO logger - ClassName :cucumberIntegrationTests.PageConstants.android.AndroidAbhiBus
+16 Jul 2020 01:04:19  INFO logger - MethodName :findElement
+16 Jul 2020 01:04:19  INFO logger - Exception :Element not foundBy.xpath: /android.widget.LinearLayout[2]/android.widget.ExpandableListView/android.widget.LinearLayout[2]/android.widget.LinearLayout/android.widget.TextView
+16 Jul 2020 01:04:19  INFO logger - -----------------------------------------------------------------------------------
+16 Jul 2020 17:44:03  INFO logger - --------------------------------------
+16 Jul 2020 17:45:25  INFO logger - Android driver created
+16 Jul 2020 17:46:14  INFO logger - ClassName :cucumberIntegrationTests.PageConstants.android.AndroidAbhiBus
+16 Jul 2020 17:46:14  INFO logger - MethodName :findElement
+16 Jul 2020 17:46:14  INFO logger - Exception :Element not foundBy.xpath: /android.widget.LinearLayout[2]/android.widget.ExpandableListView/android.widget.LinearLayout[2]/android.widget.LinearLayout/android.widget.TextView
+16 Jul 2020 17:46:14  INFO logger - -----------------------------------------------------------------------------------
+16 Jul 2020 18:13:44  INFO logger - --------------------------------------
+16 Jul 2020 18:15:13  INFO logger - Android driver created
+16 Jul 2020 18:15:39  INFO logger - ClassName :cucumberIntegrationTests.PageConstants.android.AndroidAbhiBus
+16 Jul 2020 18:15:39  INFO logger - MethodName :findElement
+16 Jul 2020 18:15:39  INFO logger - Exception :Element not foundBy.xpath: //android.widget.LinearLayout[2]/android.widget.ExpandableListView/android.widget.LinearLayout[2]/android.widget.LinearLayout/android.widget.TextView
+16 Jul 2020 18:15:39  INFO logger - -----------------------------------------------------------------------------------
+16 Jul 2020 18:18:13  INFO logger - --------------------------------------
+16 Jul 2020 18:18:57  INFO logger - Android driver created
+16 Jul 2020 18:20:11  INFO logger - --------------------------------------
+16 Jul 2020 18:22:02  INFO logger - --------------------------------------
+16 Jul 2020 18:22:32  INFO logger - Android driver created
+16 Jul 2020 19:23:36  INFO logger - --------------------------------------
+16 Jul 2020 19:24:43  INFO logger - Android driver created
+16 Jul 2020 19:24:59  INFO logger - ClassName :cucumberIntegrationTests.PageConstants.android.AndroidAbhiBus
+16 Jul 2020 19:24:59  INFO logger - MethodName :findElement
+16 Jul 2020 19:24:59  INFO logger - Exception :Element not foundBy.xpath: //android.widget.LinearLayout[2]/android.widget.ExpandableListView/android.widget.LinearLayout[2]
+16 Jul 2020 19:24:59  INFO logger - -----------------------------------------------------------------------------------
+16 Jul 2020 19:25:41  INFO logger - --------------------------------------
+16 Jul 2020 19:26:27  INFO logger - Android driver created
+16 Jul 2020 22:54:23  INFO logger - --------------------------------------
+16 Jul 2020 22:55:11  INFO logger - Android driver created
+16 Jul 2020 22:55:35  INFO logger - ClassName :cucumberIntegrationTests.PageConstants.android.AndroidAbhiBus
+16 Jul 2020 22:55:35  INFO logger - MethodName :findElement
+16 Jul 2020 22:55:35  INFO logger - Exception :Element not foundBy.xpath: /hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup/android.widget.LinearLayout[2]/android.widget.ExpandableListView/android.widget.LinearLayout[3]
+16 Jul 2020 22:55:35  INFO logger - -----------------------------------------------------------------------------------
+16 Jul 2020 22:59:19  INFO logger - --------------------------------------
+16 Jul 2020 22:59:57  INFO logger - Android driver created
+16 Jul 2020 23:00:19  INFO logger - ClassName :cucumberIntegrationTests.PageConstants.android.AndroidAbhiBus
+16 Jul 2020 23:00:19  INFO logger - MethodName :findElement
+16 Jul 2020 23:00:19  INFO logger - Exception :Element not foundBy.xpath: /hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup/android.widget.LinearLayout[2]/android.widget.ExpandableListView/android.widget.LinearLayout[3]
+16 Jul 2020 23:00:19  INFO logger - -----------------------------------------------------------------------------------
+16 Jul 2020 23:04:40  INFO logger - --------------------------------------
+16 Jul 2020 23:05:23  INFO logger - Android driver created
+16 Jul 2020 23:19:58  INFO logger - --------------------------------------
+16 Jul 2020 23:20:38  INFO logger - Android driver created
+17 Jul 2020 00:06:30  INFO logger - --------------------------------------
+17 Jul 2020 00:07:37  INFO logger - Android driver created
+17 Jul 2020 00:13:25  INFO logger - --------------------------------------
+17 Jul 2020 00:13:58  INFO logger - Android driver created
+17 Jul 2020 00:15:51  INFO logger - --------------------------------------
+17 Jul 2020 00:16:29  INFO logger - Android driver created
+17 Jul 2020 00:21:46  INFO logger - --------------------------------------
+17 Jul 2020 00:22:24  INFO logger - Android driver created
+17 Jul 2020 00:22:44  INFO logger - ClassName :cucumberIntegrationTests.PageConstants.android.AndroidAbhiBus
+17 Jul 2020 00:22:44  INFO logger - MethodName :findElement
+17 Jul 2020 00:22:44  INFO logger - Exception :Element not foundBy.xpath: /hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup/android.widget.LinearLayout[2]/android.widget.ExpandableListView/android.widget.LinearLayout[2]
+17 Jul 2020 00:22:44  INFO logger - -----------------------------------------------------------------------------------
+17 Jul 2020 00:23:29  INFO logger - --------------------------------------
+17 Jul 2020 00:24:13  INFO logger - Android driver created
